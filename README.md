@@ -1,6 +1,10 @@
 <h1 align="center">Hi 👋, I'm Ahmed Hazem</h1>
 <h3 align="center">Computer science student 3th year / dot-net developer / problem-solving</h3>
 
+- 🌱 I’m currently learning **I am currently learning backend with dot net & looking forward to contributing to real dotnet projects**
+
+- 📄 Know about my experiences [https://drive.google.com/file/d/1i_0NZf_7uvQeKwojfcrKxvIoPRZzWhlx/view?usp=sharing](https://drive.google.com/file/d/1i_0NZf_7uvQeKwojfcrKxvIoPRZzWhlx/view?usp=sharing)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/ahmed-hazem-84912722a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ahmed-hazem-84912722a/" height="30" width="40" /></a>
